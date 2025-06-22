@@ -1,4 +1,4 @@
-[![Gmail badge](https://img.shields.io/badge/-Crist1an28-c14438?style=socila&logo=Gmail&logoColor=red&link=mailto:cristiangalan85@gmail.com)](mailto:cristiangalan85@gmail.com)
+[![Gmail badge](https://img.shields.io/badge/-Crist1an28-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:cristiangalan85@gmail.com)](mailto:cristiangalan85@gmail.com)
 
 
 * I am a Frontend developer from [Rome, Italy]
